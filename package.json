@@ -1,0 +1,22 @@
+{
+  "name": "ma-120-",
+  "version": "1.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix frontend && npm run build --prefix frontend",
+    "start":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vansh-Pandey/MA-120-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vansh-Pandey/MA-120-/issues"
+  },
+  "homepage": "https://github.com/Vansh-Pandey/MA-120-#readme"
+}
